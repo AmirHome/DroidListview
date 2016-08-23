@@ -8,6 +8,9 @@
 # Java class files
 *.class
 
+/.idea/libraries
+.DS_Store
+
 # Generated files
 bin/
 gen/
